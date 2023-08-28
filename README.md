@@ -6,3 +6,10 @@ I am a student of the **Telecommunications Network Engineering Technology** appl
 I'am a **Graphic Designer** pada Program Studi Sarjana Terapan **Teknologi Rekayasa Jaringan Telekomunikasi di Politeknik Negeri Ujung Pandang** [TRJT_OFFICIAL](https://www.instagram.com/trjt_official/) from June 2022
 
 If you want to see my progress and interest to me, be close to my account [LinkedIn](https://www.linkedin.com/in/aa-agiel-tiasa-5596b228a/) and also my [GitHub](https://github.com/AAAgielTiasa)
+
+<p align="left">
+<a href="https://github.com/AAAgielTiasa)">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AAAgielTiasa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AAAgielTiasa&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
